@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.py[cod]
+*.pyc
+.ipynb_checkpoints/
+*.h5
+*.pkl
+.env
+venv/
+.venv/
+*.png
