@@ -96,7 +96,7 @@ All models use scikit-learn pipelines with:
 
 ## Technologies
 
-- Python 3.x
+- Python
 - pandas
 - NumPy
 - scikit-learn
