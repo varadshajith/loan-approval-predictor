@@ -42,7 +42,7 @@ Based on Random Forest analysis:
 4. Income_loan_ratio: 10.33%
 5. ApplicantIncome: 9.64%
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 Credit history is the dominant factor in loan approval decisions, accounting for nearly 44% of prediction importance.
 
@@ -50,11 +50,28 @@ Credit history is the dominant factor in loan approval decisions, accounting for
 
 The project includes several data visualizations:
 
-![Approval Status Distribution](images/approval_distribution.png)
-*Distribution of approved vs rejected applications*
+## Model Performance
 
-![Credit History Analysis](images/credit_history_analysis.png)
-*Impact of credit history on loan approval*
+![Model Comparison](Images/model_comparison.png)
+
+## Data Analysis
+
+### Missing Data
+![Missing Data](Images/missing_data_percentage.png)
+
+### Loan Status Distribution
+![Loan Status](Images/Loan_status_distribution.png)
+
+### Exploratory Data Analysis
+![EDA](Images/Loan_eda.png)
+
+## Model Evaluation
+
+### Best Model (Decision Tree)
+![Confusion Matrix - Best](Images/loan_confusion_matrix_best.png)
+
+### Random Forest
+![Confusion Matrix - RF](Images/loan_confusion_matrix_rf.png)
 
 ## Technical Details
 
